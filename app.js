@@ -1,1 +1,5 @@
-console.log(Hola)
+function Hola(camada){
+    console.log(Hola);
+}
+
+Hola("Camada4");
